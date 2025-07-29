@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1751647098 source:c:\users\asmae\onedrive\bureau\advancedc_training\testlibchallenge\challengeclient2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+

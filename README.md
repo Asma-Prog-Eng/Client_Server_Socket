@@ -1,8 +1,8 @@
 Implementation of a basic Cleint-Server Socket in C , that allows a server to communicate with two clients.
 ## Features
-- Mutli-threading
-- Mutex
-- Condition Variable
+- Socket for Server communication
+- Socket for Client communication
+- 
 ## Requirements
 ### Software
 - CodeBlocks or compatible toolchain
